@@ -8,4 +8,4 @@ Detects confidence degradation using Expected Calibration Error (ECE)
 Classifies severity (LOW / MODERATE / CRITICAL)
 Heals itself autonomously — recalibrate, retrain, or fully replace the model
 
-
+![Result](results/ss1.png)
